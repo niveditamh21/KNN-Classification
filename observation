@@ -1,0 +1,16 @@
+From the above code observations,
+
+for testsize=30% and k=1 : Accuracy=100.0%
+for testsize=30% and k=3 : Accuracy=77.77777777777779%
+for testsize=30% and k=5 : Accuracy=77.77777777777779%
+for testsize=30% and k=7 : Accuracy=66.66666666666666%
+
+for testsize=10% and k=1 : Accuracy=100.0%
+for testsize=10% and k=3 : Accuracy=100.0%
+for testsize=10% and k=5 : Accuracy=100.0%
+for testsize=10% and k=7 : Accuracy=100.0%
+
+for testsize=50% and k=1 : Accuracy=100.0%
+for testsize=50% and k=3 : Accuracy=83.33333333333334%
+for testsize=50% and k=5 : Accuracy=73.33333333333333%
+for testsize=50% and k=7 : Accuracy=63.33333333333333%
